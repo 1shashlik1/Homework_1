@@ -59,6 +59,7 @@ public class Main {
         var potentialWorkTime = totalTime / potentialNumberEmployees;
         System.out.print(potentialWorkTime);//Непонятно, почему последние выводы пишутся слитно?
         System.out.print("Если в компании работает " + potentialNumberEmployees + " человек, то всего " + potentialWorkTime + " часа работы может быть поделено между сотрудиниками.");
+        //Домашка
 
 
     }
